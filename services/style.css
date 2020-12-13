@@ -1,0 +1,32 @@
+.names{
+    display:flex;
+    justify-content:space-evenly;
+    color:darkslategray;
+    font-size: 20px;
+   
+}
+.layouts{
+    display:flex;
+   
+    justify-content:space-around;
+    color:darkslategray;
+    font-size: 30px;
+    
+}
+.layouts details{
+    margin-left: 100px;
+   
+}
+.images{
+    text-align: center;
+}
+.login{
+    color:gray;
+    font-family: "stencil";
+    text-align: center;
+}
+.follow{
+    text-align: center;
+    font-family:" snapitc";
+    font-size:" large ";
+}
